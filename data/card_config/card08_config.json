@@ -1,0 +1,21 @@
+{
+  "DeviceID": "deviceID08",
+  "ConnectionString": "HostName=madsenIoTv4.azure-devices.net;DeviceId=deviceID08;SharedAccessKey=E1Gm3g3YlfiLT1WcmHKIJL6s7Icg0UZytlOPLxwLQtk=",
+  "cardProperties": {
+    "FaceValue": "6s",
+    "CardID": "60b8cbcd-110c-4b0c-ba3e-16873d149fd1",
+    "CardTransMult": 0.57,
+    "CardOccLevel": 0,
+    "status": "Success"
+  },
+  "handProperties": {
+    "HandID": "d2af1bbd-8b49-4f95-a1ad-5340f9330645",
+    "HandLocName": "MGM Grand Show Bar",
+    "HandLocSub": "R2T1H2",
+    "HandLocLat": 36.101551,
+    "HandLocLon": -115.171579,
+    "Distance": 0,
+    "status": "Success"
+  },
+  "deviceStatus": "Offline"
+}

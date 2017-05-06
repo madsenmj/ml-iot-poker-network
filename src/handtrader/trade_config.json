@@ -1,0 +1,6 @@
+{
+  "Host" : "ussouthcentral.services.azureml.net",
+  "Path" : "/subscriptions/36f6dd103ad84a1fb066922d7386a1f8/services/3118aed11b044ddb97c5bd5a40876a34/execute?api-version=2.0&format=swagger",
+  "Api_key" : "salIPqRQ1k+DFDq1cPz8ddYB9lPttvYAbAfkOL4FD7m2e68ed7/v0CkNBQHg2hcf16kLBJyraN1ufE/HUlLZ4w==",
+  "ConnectionString": "HostName=madsenIoTv4.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=Ahgqq7Utd+8wcXISW50d49+Ojh5LbJY7xGBXXXCW124="
+}

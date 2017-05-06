@@ -1,0 +1,21 @@
+{
+  "DeviceID": "deviceID03",
+  "ConnectionString": "HostName=madsenIoTv4.azure-devices.net;DeviceId=deviceID03;SharedAccessKey=U056MNbCEWjp6nJRRNHhuriYSvYfYQcV4+ybun3En4U=",
+  "cardProperties": {
+    "status": "Success",
+    "CardID": "2b128581-6250-41db-9952-41bce4bfac33",
+    "FaceValue": "7h",
+    "CardTransMult": 0.69,
+    "CardOccLevel": 0
+  },
+  "handProperties": {
+    "HandID": "09d08b88-b1c3-4ea4-b82c-40ec2d96f348",
+    "HandLocName": "Mirage Calypso",
+    "HandLocSub": "R2T1H2",
+    "HandLocLat": 36.121561,
+    "HandLocLon": -115.176478,
+    "Distance": 0,
+    "status": "Success"
+  },
+  "deviceStatus": "Offline"
+}

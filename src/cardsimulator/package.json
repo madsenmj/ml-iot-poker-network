@@ -1,0 +1,19 @@
+{
+  "name": "cardsimulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CardSimulator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.1.0-dtpreview.2",
+    "azure-iot-device-mqtt": "^1.1.0-dtpreview.2",
+    "colors": "^1.1.2",
+    "keypress": "^0.2.1",
+    "nconf": "^0.8.4",
+    "progress": "^1.1.8"
+  }
+}

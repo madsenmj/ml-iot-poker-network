@@ -1,0 +1,21 @@
+{
+  "DeviceID": "deviceID01",
+  "ConnectionString": "HostName=madsenIoTv4.azure-devices.net;DeviceId=deviceID01;SharedAccessKey=p6NKvuH5QZhx8SZ5oqZBVreIE/z+CCb6fK2eZ3Etm8Y=",
+  "cardProperties": {
+    "status": "Success",
+    "CardID": "a1f09c29-8a8d-431d-9d90-815db3d114d2",
+    "FaceValue": "Tc",
+    "CardTransMult": 0,
+    "CardOccLevel": 0
+  },
+  "handProperties": {
+    "HandID": "7fa73565-a264-4055-afab-ab4f71d941b2",
+    "HandLocName": "MGM Grand Garden Area",
+    "HandLocSub": "R2T1H2",
+    "HandLocLat": 36.10474,
+    "HandLocLon": -115.168599,
+    "Distance": 0,
+    "status": "Success"
+  },
+  "deviceStatus": "Offline"
+}

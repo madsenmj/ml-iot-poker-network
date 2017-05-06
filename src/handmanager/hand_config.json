@@ -1,0 +1,147 @@
+{
+  "Locations": [
+    {
+      "Name": "MGM Grand Show Bar",
+      "Lat": 36.101551,
+      "Lon": -115.171579
+    },
+    {
+      "Name": "MGM Grand Garden Area",
+      "Lat": 36.10474,
+      "Lon": -115.168599
+    },
+	{
+      "Name": "New York/New York",
+      "Lat": 36.104740,
+      "Lon": -115.168599
+    },
+	{
+      "Name": "Exalibur",
+      "Lat": 36.098796,
+      "Lon": -115.175448
+    },
+	{
+      "Name": "Wynn",
+      "Lat": 36.125926,
+      "Lon": -115.166224
+    },	
+	{
+      "Name": "Treasure Island",
+      "Lat": 36.124703,
+      "Lon": -115.172305
+    },	
+	{
+      "Name": "El Cortez",
+      "Lat": 36.168953,
+      "Lon": -115.138972
+    },	
+	{
+      "Name": "Golden Nugget",
+      "Lat": 36.170495,
+      "Lon": -115.145404
+    },	
+	{
+      "Name": "Plaza",
+      "Lat": 36.171535,
+      "Lon": -115.147113
+    },	
+	{
+      "Name": "Main Street Station",
+      "Lat": 36.174308,
+      "Lon": -115.145318
+    },	
+	{
+      "Name": "California",
+      "Lat": 36.172837,
+      "Lon": -115.145038
+    },	
+	{
+      "Name": "Westgate",
+      "Lat": 36.135330,
+      "Lon": -115.151643
+    },	
+	{
+      "Name": "Mirage Players Club",
+      "Lat": 36.120970,
+      "Lon": -115.174947
+    },	
+	{
+      "Name": "Mirage Calypso",
+      "Lat": 36.121561,
+      "Lon": -115.176478
+    },	
+	{
+      "Name": "Caesars",
+      "Lat": 39.356116,
+      "Lon": -74.435764
+    }
+  ],
+  "Rooms": [
+    "R1T1H1",
+    "R1T1H2",
+    "R1T2H1",
+    "R1T2H2",
+    "R2T1H1",
+    "R2T1H2",
+    "R2T2H1",
+    "R2T2H2",
+    "R3T1H1",
+    "R3T1H2",
+    "R3T2H1",
+    "R3T2H2"
+  ],
+  "Cards": [
+    "2s",
+    "3s",
+    "4s",
+    "5s",
+    "6s",
+    "7s",
+    "8s",
+    "9s",
+    "Ts",
+    "Js",
+    "Qs",
+    "Ks",
+    "As",
+    "2h",
+    "3h",
+    "4h",
+    "5h",
+    "6h",
+    "7h",
+    "8h",
+    "9h",
+    "Th",
+    "Jh",
+    "Qh",
+    "Kh",
+    "Ah",
+    "2d",
+    "3d",
+    "4d",
+    "5d",
+    "6d",
+    "7d",
+    "8d",
+    "9d",
+    "Td",
+    "Jd",
+    "Qd",
+    "Kd",
+    "Ad",
+    "2c",
+    "3c",
+    "4c",
+    "5c",
+    "6c",
+    "7c",
+    "8c",
+    "9c",
+    "Tc",
+    "Jc",
+    "Qc",
+    "Kc",
+    "Ac"
+  ]
+}
